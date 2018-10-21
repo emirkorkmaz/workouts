@@ -1,3 +1,5 @@
+package puzzles;
+
 import java.io.*;
 
 import java.util.*;
